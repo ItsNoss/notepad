@@ -27,7 +27,7 @@ def cut():
         pass
 
 def about():
-	messagebox.showinfo(message='Lick my toes')
+	messagebox.showinfo(message='This is a text editor project created by Noss. Follow him on twitter at twitter.com/realnoss, and twitch at twitch.tv/itsnoss')
 
 class windowSize():
 	def __init__(self, master):
